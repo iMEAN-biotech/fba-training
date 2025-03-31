@@ -2,3 +2,4 @@ cobra
 escher
 ipywidgets==7.7.1
 notebook>=6.4
+nodejs
