@@ -1,15 +1,11 @@
 name: fba-training
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.10
+  - python=3.11
   - cobra
-  - escher
+  - notebook
+  - jupyterlab
   - ipywidgets
-  - notebook>=6
-  - nodejs
-  - nb_conda_kernels
-  - pip
-  - pip:
-      - escher
+  - nodejs  # Required for widget rendering in JupyterLab
+  - escher
