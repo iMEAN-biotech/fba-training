@@ -1,5 +1,4 @@
 cobra
-escher
-ipywidgets
+escher==1.7.3
+ipywidgets==7.7.1
 notebook>=6.4
-jupyterlab_widgets
