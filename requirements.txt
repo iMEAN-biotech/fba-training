@@ -2,3 +2,5 @@ escher
 cobra
 ipywidgets
 nodejs
+notebook>=6.4
+jupyterlab_widgets
