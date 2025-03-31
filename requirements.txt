@@ -1,5 +1,5 @@
 cobra 
 escher==1.7.0
-ipywidgets==7.7.1
+ipywidgets==7.6.3
 notebook>=6.4
 nodejs
